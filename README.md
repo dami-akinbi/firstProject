@@ -6,6 +6,6 @@ Kindly watch the demo.mp4 first to have an understanding of the work I have trie
 
 I had to watch a YouTube playlist on "Git and GitHub" on "The Net Ninja" channel to be able to do this.
 
-The file may not work properly since but it works 'well' on my local computer.
+The project may not work properly since but it works 'well' on my local computer.
 
 Thank you :)
