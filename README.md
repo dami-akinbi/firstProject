@@ -6,6 +6,6 @@ Kindly watch the demo.mp4 first to have an understanding of the work I have trie
 
 I had to watch a YouTube playlist on "Git and GitHub" on "The Net Ninja" channel to be able to do this.
 
-The project may not work properly since but it works 'well' on my local computer.
+The project works 'well' on my local computer but may not work well on yours because of the PHP and XAMPP side of it.
 
 Thank you :)
